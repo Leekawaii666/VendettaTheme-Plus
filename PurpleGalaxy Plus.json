@@ -1,9 +1,9 @@
 {
-    "name": "PurpleGalaxy",
-    "description": "A light purple sky theme",
+    "name": "PurpleGalaxy - Plumpy - Raon",
+    "description": "A light purple sky theme with plumpycons from rosiecord and a custom font for revenge.",
     "authors": [
         {
-            "name": "Vodka Martini",
+            "name": "Created by Vodka Martini, forked by bleelblep",
             "id": "1068030255455015013"
         }
     ],
@@ -169,5 +169,52 @@
     "url": "https://cdn.discordapp.com/attachments/1086985889286209586/1165884113329344572/ezgif.com-gif-maker.gif?ex=65487931&is=65360431&hm=a1c76ec44234ef8daabc55867de689e09d59fde9ba9637747493a752241e810a&",
     "alpha": 0.8
     },
-    "color": "#4d4463"
+    "color": "#4d4463",
+    "fonts": {
+        "ABCGintoNord-ExtraBold": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/main/RaonLittleDolphin_L.ttf",
+        "ggsans-Bold": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/main/RaonLittleDolphin_L.ttf",
+        "ggsans-BoldItalic": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/main/RaonLittleDolphin_L.ttf",
+        "ggsans-ExtraBold": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/main/RaonLittleDolphin_L.ttf",
+        "ggsans-ExtraBoldItalic": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/main/RaonLittleDolphin_L.ttf",
+        "ggsans-Medium": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/main/RaonLittleDolphin_L.ttf",
+        "ggsans-MediumItalic": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/main/RaonLittleDolphin_L.ttf",
+        "ggsans-Normal": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/main/RaonLittleDolphin_L.ttf",
+        "ggsans-NormalItalic": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/main/RaonLittleDolphin_L.ttf",
+        "ggsans-Semibold": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/main/RaonLittleDolphin_L.ttf",
+        "ggsans-SemiboldItalic": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/main/RaonLittleDolphin_L.ttf",
+        "NotoSans-Bold": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/main/RaonLittleDolphin_L.ttf",
+        "NotoSans-ExtraBold": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/main/RaonLittleDolphin_L.ttf",
+        "NotoSans-Medium": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/main/RaonLittleDolphin_L.ttf",
+        "NotoSans-Normal": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/main/RaonLittleDolphin_L.ttf",
+        "NotoSans-NormalItalic": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/main/RaonLittleDolphin_L.ttf",
+        "NotoSans-Semibold": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/main/RaonLittleDolphin_L.ttf",
+        "SourceCodePro-Semibold": "https://github.com/Leekawaii666/RevengeMod-CustomFonts/raw/main/RaonLittleDolphin_L.ttf"
+    },
+    "plus": {
+        "version": "0",
+        "iconpack": "rosiecord-plumpy",
+        "icons": {
+            "ic_new_pins": [
+                "#e64553"
+            ],
+            "StatusStreaming": [
+                "#7e64fb"
+            ],
+            "StatusMobileOnline": [
+                "#09bd63"
+            ],
+            "StatusIdle": [
+                "#ffd401"
+            ],
+            "StatusDND": [
+                "#ff611a"
+            ],
+            "StatusOffline": [
+                "#015bd5"
+            ],
+            "StatusOnline": [
+                "#09bd63"
+            ]
+        }
+    }
 }
