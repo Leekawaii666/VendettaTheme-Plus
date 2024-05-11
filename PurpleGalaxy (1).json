@@ -321,6 +321,7 @@
     },
     "plus":{
        "version":"0",
+        "iconpack":"https://raw.githubusercontent.com/rairof/discord-iconpacks/master/Packs/Plumpy/",
        "customOverlays": true,
        "icons":{
           "AccessibilityIcon": "#a79ab3",
